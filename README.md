@@ -12,3 +12,8 @@
    - 발사, 데미지, 아이템 등 파티클 효과를 적용하였지만 작동하지 않아 고민하였고, 이는 하위 오브젝트로 파티클 효과 프리팹을 넣어주고 파티클 시스템의 몇 가지 설정을 바꾸어 작동하는 방법을 알아내었습니다.
 ---
 ## 게임 이미지
+![Image Sequence_004_0000](https://github.com/user-attachments/assets/c5cd7174-b08a-4298-acdd-a027b96e1278)
+![Image Sequence_005_0000](https://github.com/user-attachments/assets/8a9d6813-30cb-484d-b922-990de2873a0b)
+![KakaoTalk_20240927_100329160_06](https://github.com/user-attachments/assets/bb14988d-559f-4915-b959-9ad6d461cf16)
+![KakaoTalk_20240927_100329160_10](https://github.com/user-attachments/assets/b05693a9-ab8a-4da4-8f3f-95d3fc0e850a)
+![KakaoTalk_20240927_100329160](https://github.com/user-attachments/assets/180cc0b9-a89b-4130-8b77-3ca6069f7531)
